@@ -20,6 +20,8 @@ See [CONTRIBUTING](https://github.com/exakat/php-static-analysis-tools/blob/mast
 
 Tools to report issues in code that are or lead to bugs.
 
+* [PHPMetrics](https://www.phpmetrics.org/) - Metrics
+
 * [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) - static analysis tool for finding bugs, weaknesses and vulnerabilities in source code
 * [Code insight](https://github.com/console-helpers/code-insight) - A tool for analysing other project code bases.
 * [Churn-PHP](https://github.com/bmitch/churn-php.git) - Discover files in need of refactoring.
