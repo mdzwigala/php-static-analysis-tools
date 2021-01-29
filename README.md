@@ -89,6 +89,7 @@ Tools to review the way PHP code was written and more.
 
 Libraries that may be the base for a home-made static analyzer.
 
+* [PHPDepend](https://github.com/mihaeu/dephpend)
 * [Deptrac](https://github.com/sensiolabs-de/deptrac.git) - A static code analysis tool to enforce rules for dependencies between software layers.
 * [PHP-cfg](https://github.com/ircmaxell/php-cfg) - A Control Flow Graph implementation in PHP. Written by IrcMaxwell.
 * [PHP coupling detector](https://github.com/akeneo/php-coupling-detector) - Check that code has no unwanted coupled classes.
